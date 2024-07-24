@@ -6,8 +6,6 @@ This folder contains the notebooks used for testing POSEIDON package, generating
 
 We used POSEIDON to generate the forward models, which is a Python-based package that can be used to generate a model planet spectrum for a given set of parameters, such as the parameters of the star-planet system and the atmospheric properties.
 
-<p align="center"><img alt="POSEIDON" src="img\pos.png" height = 400 ></p>
-
 
 ## Notebooks
 * [Testing using WASP39b H2O forward model](Data\transmission_poseidon_h20.ipynb)
