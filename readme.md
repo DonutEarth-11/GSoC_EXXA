@@ -6,6 +6,7 @@ EXXA - Exoplanet Atmosphere Characterization</br>
 <p align="center"><img alt="GSoC Logo" src="img/ml4sci.png" height = 150 ></p>
 
 This repository contains the notebooks for the **EXXA** project under the **ML4SCi** organization as a part of **GSoC 2024**.
+
 **Machine Learning for Science (ML4Sci)** is an open-source organization that applies machine learning to scientific problems across various fields ranging from particle physics, planetary science, and astronomy to quantum physics. **Google Summer of Code (GSoC)** is an annual global online program which Google funds. The main aim of this program is to introduce students to open-source software development by contributing to a project under the guidance of mentors from the open-source organization
 
 ## Project aim
