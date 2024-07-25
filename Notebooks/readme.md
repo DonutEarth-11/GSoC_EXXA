@@ -11,7 +11,7 @@ I implemented a simple 1D CNN and a simple LSTM using Tensorflow and Keras.
 
 
 ## Notebooks
-* [Normalization and PCA](Notebooks\Normalization_and_PCA.ipynb)
-* [tSNE and Clustering](Notebooks\tSNE.ipynb)
-* [CNN](Notebooks\pos_LSTM.ipynb)
-* [LSTM](Notebooks\pos_cnn1d.ipynb)
+* [Normalization and PCA](Normalization_and_PCA.ipynb)
+* [tSNE and Clustering](tSNE.ipynb)
+* [CNN](pos_LSTM.ipynb)
+* [LSTM](pos_cnn1d.ipynb)
