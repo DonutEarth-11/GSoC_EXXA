@@ -8,8 +8,8 @@ We used POSEIDON to generate the forward models, which is a Python-based package
 
 
 ## Notebooks
-* [Testing using WASP39b H2O forward model](Data\transmission_poseidon_h20.ipynb)
-* [Generating, binning and saving 100k models](Data\transmission_poseidon_r1000_data_100k.ipynb)
-* [Unphysical forward models](Data\100k_dataset_nan.ipynb)
-* [Nested Sampling Retrieval](Data\pos_100k_ret.ipynb)
-* [Cornerplot from retrieval](Data\corner.pdf)
+* [Testing using WASP39b H2O forward model](transmission_poseidon_h20.ipynb)
+* [Generating, binning and saving 100k models](transmission_poseidon_r1000_data_100k.ipynb)
+* [Unphysical forward models](100k_dataset_nan.ipynb)
+* [Nested Sampling Retrieval](pos_100k_ret.ipynb)
+* [Cornerplot from retrieval](corner.pdf)
