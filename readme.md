@@ -23,6 +23,7 @@ To read more about the project:
 * MacDonald, R. J., (2023). POSEIDON: A Multidimensional
 Atmospheric Retrieval Code for Exoplanet Spectra. Journal of Open
 Source Software, 8(81), 4873, https://doi.org/10.21105/joss.04873
+* Matchev, K. T., Matcheva, K., and Roman, A., “Unsupervised Machine Learning for Exploratory Data Analysis of Exoplanet Transmission Spectra”, The Planetary Science Journal, vol. 3, no. 9, IOP, 2022. doi:10.3847/PSJ/ac880b.
 * Márquez-Neila, Pablo et al. “Supervised machine learning for
 analysing spectra of exoplanetary atmospheres.” Nature
 Astronomy 2 (2018): 719-724.
